@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+
+#First_group {
+    color: darkgreen;
+}
+
+.groups {
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 32px;
+    font-family:'Courier New', Courier, monospace;
+    background-color: beige;
+}
+
+h2 {
+    text-align: center;
+}
