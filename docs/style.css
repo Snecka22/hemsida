@@ -21,6 +21,8 @@ h1 {
 h2 {
     text-align: center;
 
+
+
 }
 
 #first_pages {
@@ -29,7 +31,14 @@ h2 {
 
 }
 
-h3 {
 
+h3 {
+    text-size-adjust: 10000px;
 
 }
+
+#second_pages img{
+    padding: 0px 5%;
+    width: 35%;
+}
+
