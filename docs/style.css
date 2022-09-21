@@ -1,5 +1,4 @@
 body {
-    text-align: center;
     background-color: lightblue;
 }
 
@@ -9,12 +8,14 @@ body {
 
 .groups {
     text-decoration: underline;
+    text-align: center;
 }
 
 h1 {
     font-size: 32px;
     font-family:'Courier New', Courier, monospace;
     background-color: beige;
+    text-align: center;
 }
 
 h2 {
