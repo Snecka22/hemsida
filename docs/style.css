@@ -2,6 +2,16 @@ body {
     background-color: lightblue;
 }
 
+nav {
+    
+  }
+
+nav li {
+    display: inline;
+    padding: 10px;
+    background-color: lightgreen;
+}
+
 #First_group {
     color: darkgreen;
 }
