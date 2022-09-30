@@ -8,17 +8,8 @@ nav {
 
 nav li {
     display: inline;
-    padding: 10px;
+    padding: 20px;
     background-color: lightgreen;
-}
-
-#First_group {
-    color: darkgreen;
-}
-
-.groups {
-    text-decoration: underline;
-    text-align: center;
 }
 
 h1 {
@@ -28,12 +19,28 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    text-align: center;
+
+.Home img {
+    color: darkgreen;
+    padding: 5%;
+    text-align: right;
+}
+    
 
 
+.Home {
+    text-decoration: underline;
+    text-align: left;
 
 }
+
+
+
+h2 {
+    text-align: left;
+
+}
+
 
 #first_pages {
    
@@ -44,6 +51,8 @@ h2 {
 
 h3 {
     text-size-adjust: 10000px;
+    text-align: center;
+
 
 }
 
